@@ -1,4 +1,4 @@
-##Firebase Configuration
+## Firebase Configuration
 
 To run the project you need to [Create a Realtime Database](https://github.com/facebook/create-react-app).
 
