@@ -1,3 +1,9 @@
+##Firebase Configuration
+
+To run the project you need to [Create a Realtime Database](https://github.com/facebook/create-react-app).
+
+And put your informations in the src/Database/config.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
